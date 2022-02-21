@@ -1,0 +1,54 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: chocolate;
+}
+
+
+h2{
+    text-align: center;
+    color: darkorange; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    table-layout: fixed ;
+}
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+}
+iframe {
+    
+    margin: 0 auto;
+    background-color: #777;
+}
+div{
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    masrgin;
+    height: 50%;
+    width: 50%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.video{
+    width: 50%; /* you have to have a size or this method doesn't work */
+    height: 50%; /* think about making these max-width instead - might give you some more responsiveness */
+
+    text-align: center;
+
+    margin: auto; /* make em equal */
+}
+.background{
+    background-color: rgba(184, 135, 11, 0.274);
+    background-color: ;
+}
